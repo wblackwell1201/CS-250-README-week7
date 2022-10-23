@@ -7,3 +7,4 @@ Just as you would when writing a paper, I would take notes first. Next, I would 
 
 What does it mean to be a good team member in software development?
 The same as it means to be a good team member in any industry. Communicate with your team, provide feedback, assist them when needed, take criticism, and more. The list is long but in the end, everyone has the same goal and should be courteous and respectful to one another both personally and professionally. 
+ 
